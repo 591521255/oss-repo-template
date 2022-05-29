@@ -3,7 +3,7 @@
 ![Discord-Screenshot 2022-05-27 105206](https://user-images.githubusercontent.com/95945800/170726358-2d9513b9-2eb9-4dcd-a981-ac8b449d8901.png)
 2. 
 3)
- 1: Finding the missing information they have.
+ 1: Finding the missing information they have.</b>
  2: Use easily relatable example or analogy to state the point.
 
 4. Linux
