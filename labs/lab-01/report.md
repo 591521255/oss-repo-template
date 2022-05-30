@@ -20,6 +20,6 @@ envision and then construct a generation for the network age. But his project ca
 7. Play with Snap or Blockly
  ![Blockly_Solved_Screenshot 2022-05-27 121315](https://user-images.githubusercontent.com/95945800/170738470-5ece4b2a-aa1e-42bd-b2a9-7491c17a0142.png)
 ![Blockly_Code_Screenshot 2022-05-27 121447](https://user-images.githubusercontent.com/95945800/170738499-140aeefb-8d6d-488f-b489-153af20e227d.png)
-8. Reflection
+8. Reflection<br />
  I'm thinking about doing a project use computer vision or use puzzle solving mini game project with GUI. The CAD tool must offer some way to display the design on the user's screen. The user is designing a physical object with 3 dimensions, but the computer screen has only 2 dimensions. The CAD tool must model how we perceive objects, and draw them to the screen in a way that the user can understand all 3 dimensions of the object. We would rather not communicate directly with graphics drivers, so we can use a cross-platform abstraction layer like OpenGL, and a library called GLUT to manage our window.
 
